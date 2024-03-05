@@ -7,6 +7,7 @@ public class Sorting {
         arr.add(30);
         arr.add(23);
         arr.add(28);
+        arr.add(60);
 
 
 
